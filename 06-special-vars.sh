@@ -12,4 +12,5 @@ echo "PID of this script: $$"
 sleep 10 &
 echo "PID of the last command in background is: $!"
 echo "Current option files specified :$-"
+echo "last argument of previous command: $_"
 
