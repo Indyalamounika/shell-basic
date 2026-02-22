@@ -1,4 +1,4 @@
 #!/bin/bash
 
-date = $(date)
+DATE = $(date)
 echo "Timestop excuted: $DATE"
