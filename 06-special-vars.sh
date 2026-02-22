@@ -11,4 +11,5 @@ echo "Home directory of user: $HOME"
 echo "PID of this script: $$"
 sleep 10 &
 echo "PID of the last command in background is: $!"
+echo "Current option files specified :$-"
 
